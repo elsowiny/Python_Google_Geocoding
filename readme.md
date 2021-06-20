@@ -1,4 +1,4 @@
-##HOW TO USE:
+## HOW TO USE:
 simply just grab an api key from the google maps api/geocode and create an excel workbook of the name
 addresses in the same file as this file. within that sheet, the sheet name shall be called whatever you like
 but should be changed in the sheet_name constant
